@@ -15,4 +15,7 @@ python choose_point.py
 
 then u can click needed point, after 7 click, image will be shut down and give u a txt including coordinate
 
-![bench_7.png](https://github.com/kstsunhj/nthu_recon_choose_point/blob/main/bench_7.png)
+| before | after |
+|--------|-------|
+|    ![bench_7.png](https://github.com/kstsunhj/nthu_recon_choose_point/blob/main/bench_7.png)    |    ![bench_7.png](https://github.com/kstsunhj/nthu_recon_choose_point/blob/main/Snipaste_2023-05-18_20-06-29.png)   |
+
