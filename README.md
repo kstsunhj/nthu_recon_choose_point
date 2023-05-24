@@ -16,7 +16,7 @@ python choose_point.py
 then u can click needed point, after 7 click, image will be shut down and give u a txt including coordinate
 
 ```sh
-Add a write.py
+Add a write.py （only for recording 3D points!!!）
 If you are using meshlab.exe you can get 3D number splited by blank
 for example:
 you may record as:
