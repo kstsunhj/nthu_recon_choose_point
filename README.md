@@ -17,7 +17,7 @@ then u can click needed point, after 7 click, image will be shut down and give u
 
 ```sh
 Add a write.py
-If you are using meshlab.txt you can get 3D number splited by blank
+If you are using meshlab.exe you can get 3D number splited by blank
 for example:
 you may record as:
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
